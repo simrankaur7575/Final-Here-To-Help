@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1018104220400",
+    "firebase_url": "https://here-to-help-27547.firebaseio.com",
+    "project_id": "here-to-help-27547",
+    "storage_bucket": "here-to-help-27547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018104220400:android:ad10e6e4176cb9c4039035",
+        "android_client_info": {
+          "package_name": "com.example.heretohelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018104220400-6lnv9fo99td859thjrkqln2lfotet4k4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heretohelp",
+            "certificate_hash": "44bb2da84be28edb316d71028db0e78c3ea903cd"
+          }
+        },
+        {
+          "client_id": "1018104220400-du9678ic03si2iffk2jr3p7l472e3q7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxMdlcOa1i7IxBOosKcFzRQUa3IC-jnLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018104220400-du9678ic03si2iffk2jr3p7l472e3q7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
